@@ -1,5 +1,11 @@
 # PerformingRobots
 
+# Update on Final Project Idea;
+So far, the greatest challenge Ali and I found was to figure out a new plan/performance besides our initial idea because of the restraints. We found a good alternative that we’re both happy with regardless of the lack of interactivity as it will still portray the concept of the digital world and the analog world connecting together. For our current idea we’re planning on creating a performance that tells a story of the relationship of the robot with the projection, both being separate entities. The robot will be controlled via Bluetooth and have pre-coded sequences that I will control/play out during the performance. I’m hoping to have a screen to run on the robot to portray its expressions more clearly to the audience as it won’t have any speech. The plan is to have the audience interpret what the robot is saying but understand the text from the projection; the audience will fill in the blanks for the robot. The robot will be this being that is able to express itself physically only. 
+Parts list besides what we already have, we would like to look into getting a GLCD-display besides that we’re covered on everything else.
+
+
+
 
 # Final Project Idea;
   Ali and I both liked the initial idea I've had of the lost robot in the Art's centre and wanted to create a performance that interacts with the audience. From Ali's side the projection would show a 2-minute or so story explaining how the robot got lost and with a map of where to find it. The audience then leaves to bring back the robot to the stage. We wanted to show the interactivity of the physical and the digital with this performance, people mostly associate robots with the digital world when in truth they're very much physical. When the Robot reaches the stage, an interaction between the robot and the projection happens which brings the story to an end. 
@@ -7,7 +13,7 @@
 
 
 
-
+# Sumo Robots;
 
 https://www.youtube.com/watch?v=QCqxOzKNFks&feature=youtu.be%EF%BB%BF
 
@@ -16,7 +22,7 @@ Sumo Robots are used in Robo-Sumo sport competitions in Japan where two robots c
 
 
 
-
+# TFT Screen 
 
 TFTScreenRobot wiring:Fritzing
 https://imgur.com/a/UcB1U

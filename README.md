@@ -2,7 +2,7 @@
 
 # Update on Final Project Idea;
 So far, the greatest challenge Ali and I found was to figure out a new plan/performance besides our initial idea because of the restraints. We found a good alternative that we’re both happy with regardless of the lack of interactivity as it will still portray the concept of the digital world and the analog world connecting together. For our current idea we’re planning on creating a performance that tells a story of the relationship of the robot with the projection, both being separate entities. The robot will be controlled via Bluetooth and have pre-coded sequences that I will control/play out during the performance. I’m hoping to have a screen to run on the robot to portray its expressions more clearly to the audience as it won’t have any speech. The plan is to have the audience interpret what the robot is saying but understand the text from the projection; the audience will fill in the blanks for the robot. The robot will be this being that is able to express itself physically only. 
-Parts list besides what we already have, we would like to look into getting a GLCD-display besides that we’re covered on everything else.
+Parts list besides what we already have, we would like to look into getting a [GLCD-display](https://www.adafruit.com/product/253) besides that we’re covered on everything else.
 
 
 

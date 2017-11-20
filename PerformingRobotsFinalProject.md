@@ -24,14 +24,13 @@ Still to be determined based on what behavior we decide best suits our robot to 
 
 ---
 Prototyping Sketches:
-![alt text](https://imgur.com/a/l4ky2 "Sketch 1")
-
-![alt text] (https://imgur.com/a/1Oxws "Sketch 2")
-
+https://imgur.com/a/l4ky2
+(https://imgur.com/a/1Oxws
 
 
-Tuesday 21st:  Have chassis prototype ready including motors and Bluetooth module installed inside
-Thursday 23rd: Begin coding sequences and behavior, Flesh out story line and details of dialogue with Ali; Check on screen availability 
-Saturday 25th: Sort out milling for screen, put everything together/soldering
-Tuesday 28th: Final robot should be finished; work on improvements if necessary 
-Before December 5th: Everything should be ready and done for tech rehearsals
+
+..*Tuesday 21st:  Have chassis prototype ready including motors and Bluetooth module installed inside
+..*Thursday 23rd: Begin coding sequences and behavior, Flesh out story line and details of dialogue with Ali; Check on screen availability 
+..*Saturday 25th: Sort out milling for screen, put everything together/soldering
+..*Tuesday 28th: Final robot should be finished; work on improvements if necessary 
+..*Before December 5th: Everything should be ready and done for tech rehearsals

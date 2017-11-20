@@ -19,6 +19,9 @@ Potential Problems:
 	Screen doesn’t reach in time
 	Screen doesn’t work as intended
 If either of those does happen I will use the TFT screen instead and build the story to cover up for the slow transitions of the TFT screen; If we opt for a TFT screen the robot will have to be much smaller to bring the attention to the screen.
+
+---
+
 Outline of Programming: 
 Still to be determined based on what behavior we decide best suits our robot to tell the story.
 
@@ -27,7 +30,7 @@ Prototyping Sketches:
 https://imgur.com/a/l4ky2
 https://imgur.com/a/1Oxws
 
-
+---
 
 Tuesday 21st:  Have chassis prototype ready including motors and Bluetooth module installed inside
 
